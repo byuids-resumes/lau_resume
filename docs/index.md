@@ -23,6 +23,16 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Related Experience
 
 ### Skills 
+__Python__
+
+- Used sklearn to build prediction model 
+- Used SQL to display wrangled dataset 
+- Performed panadas functions in data wrangling 
+
+__R__
+
+-Worked closely with tidyverse package 
+-Large amount of data wrangling and visualization 
 
 ### Data Science Personal Projects
 
@@ -46,7 +56,6 @@ __Quality checker__, Cido
 -conduct a smooth and thought-out data collecting process 
 -assist data investigators to collect quality and professional data
 -meeting with clients and give effective feedback
-
 
 `2015-2017`
 __Service Missionary__, Los Angeles 
