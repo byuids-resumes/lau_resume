@@ -19,11 +19,10 @@ A person sits on the computer for 12 hours and goes for a hike for the next 12 h
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.5 Major GPA
-
 
 ## Related Experience
 
+### Skills 
 
 ### Data Science Personal Projects
 
