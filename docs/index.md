@@ -31,8 +31,8 @@ __Python__
 
 __R__
 
--Worked closely with tidyverse package 
--Large amount of data wrangling and visualization 
+- Worked closely with tidyverse package 
+- Large amount of data wrangling and visualization 
 
 ### Data Science Personal Projects
 
